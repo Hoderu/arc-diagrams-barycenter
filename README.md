@@ -15,5 +15,8 @@ Where
 
 
 ### Example
+Arc diagrams of 14-node. 
+ * Left: with a random ordering
+ * Right: after applying the barycenter heuristic
 
 <img src="./data/example.png" width="1024">
