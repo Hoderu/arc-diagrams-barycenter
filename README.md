@@ -10,6 +10,9 @@ Implementation of [Arc Diagrams and Barycenter Ordering](https://pdfs.semanticsc
 
 `python3 ./src/main.py -v 8`
 
+Where
+  * -v/vertices - number of vertices in random graph
+
 
 ### Example
 
